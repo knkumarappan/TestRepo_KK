@@ -1,0 +1,7 @@
+Do once:
+git remote add upstream git@github.com:AidData-WM/<reponame>.git (lets the fork know where its master is)
+
+Do everytime:
+
+git fetch upstream (retrieves changes to the master)
+git merge upstream/master (merges to your fork)
