@@ -1,0 +1,5 @@
+Look at the prezi for more info
+
+1. Pick two of the tools and put in a vote.txt file in aiddata_carpenters/kkumarappan
+
+2. There are two excercses in School of Data (links on prezi)
