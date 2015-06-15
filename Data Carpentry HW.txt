@@ -1,0 +1,8 @@
+HW 6/8 - Data Carpentry
+
+Find wingmanzz repo named aiddata_carpenters
+fork it
+add a foler with kkumarappan
+add a readme.txt file
+push to your fork and issue a pull request
+grab all changes from the master repo to your fork
